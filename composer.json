@@ -22,7 +22,11 @@
     },
     "autoload": {
         "psr-4": {
-            "TorrentPHP\\": "src/",
+            "TorrentPHP\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
             "TorrentPHP\\Test\\": "test/"
         }
     },
